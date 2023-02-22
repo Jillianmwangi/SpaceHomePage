@@ -3,8 +3,8 @@ import React from "react";
 
 function Main() {
   return (
-    <div className="Container">
-      <div className="intro">
+    <div className="container">
+      <div className="leftSide">
         <p className="toptext">SO, YOU WANT TO TRAVEL TO </p>
         <p className="text2">Space</p>
         <p className="text3">
